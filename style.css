@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(200, 0, 95);
     color: linen;
-    font-size: 150%;
-    line-height: 1.4;
+    font-size: 500%;
+    line-height: 4;
 }
 
 h1{
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: rgb(10, 200, 70);
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: rgb(159, 200, 100);
     text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ img{
 .textbox {
     width:70%;
     color: white;
-    font-size: 110%;
+    font-size: 69%;
     background:gray;
     padding: 4px;
     border:1px solid white;
@@ -55,15 +55,15 @@ img{
 
 .button {
     background: white;
-    font-size: 110%;
+    font-size: 90%;
     color:gray;
     padding: 4px;
     border:2px solid white;
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    background-color: rgb(10, 30, 50);
+    color:  rgb(41, 52, 39);
 }
 
 .half{
